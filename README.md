@@ -16,16 +16,16 @@ Major functions of the n31_kte:
 
 
 Kindle Text Editor v2.18 English version for KO2、KO3:
-[URL="https://drive.google.com/file/d/1VNM6WeCGyG-nBjbJxZKib9lt_ovWyjBA/view?usp=sharing"]https://drive.google.com/file/d/1VNM6WeCGyG-nBjbJxZKib9lt_ovWyjBA/view?usp=sharing[/URL]
+https://drive.google.com/file/d/1VNM6WeCGyG-nBjbJxZKib9lt_ovWyjBA/view?usp=sharing
 
 Kindle Text Editor v2.18 English version for  for KPW3、KPW4、KV、KO:
-[URL="https://drive.google.com/file/d/17E4vk8_y32tC7Fw4i9loquG7jJn5e5JF/view?usp=sharing"]https://drive.google.com/file/d/17E4vk8_y32tC7Fw4i9loquG7jJn5e5JF/view?usp=sharing[/URL]
+https://drive.google.com/file/d/17E4vk8_y32tC7Fw4i9loquG7jJn5e5JF/view?usp=sharing
 ------------------------------------------------------------------------------------------------------------------
 Kindle Text Editor v2.18 Chinese version for KO2、KO3: (include Chinese pinyin input Lib, need more ram to run)：
-[URL="https://drive.google.com/file/d/1EEFpbvFwwQpC8fdK75wVkoYEsGND7qPJ/view?usp=sharing"]https://drive.google.com/file/d/1EEFpbvFwwQpC8fdK75wVkoYEsGND7qPJ/view?usp=sharing[/URL]
+https://drive.google.com/file/d/1EEFpbvFwwQpC8fdK75wVkoYEsGND7qPJ/view?usp=sharing
 
 Kindle Text Editor v2.18 Chinese version for KPW3、KPW4、KV、KO:
-[URL="https://drive.google.com/file/d/1v17nREeEQHY_er0nxy348u3YS5VkRFuk/view?usp=sharing"]https://drive.google.com/file/d/1v17nREeEQHY_er0nxy348u3YS5VkRFuk/view?usp=sharing[/URL]
+https://drive.google.com/file/d/1v17nREeEQHY_er0nxy348u3YS5VkRFuk/view?usp=sharing
 -------------------------------------------------------------------------------------------------------------------
 
 ---------------------------|Hardware and jailbreak |---------------------------
